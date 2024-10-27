@@ -1,8 +1,2 @@
 # Codux
-
-## Templates
-- **[blank-remix](https://github.com/Codux-Assets/blank-remix)**  
-  A blank template using remix
-## Demos
-- **[blank-remix](https://github.com/Codux-Assets/blank-remix)**  
-  A blank template using remix
+Codux user facing demos, templates and additional resources
